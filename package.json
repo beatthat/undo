@@ -1,7 +1,7 @@
 {
   "name": "undo",
   "scope": "beatthat",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Undo/Redo support via a change history.",
   "main": "index.js",
   "repository": {
